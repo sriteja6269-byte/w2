@@ -1,0 +1,11 @@
+{
+    "name": "Sri Teja",
+    "age": 19,
+    "course": "B.Tech CSE",
+    "college": "Malla Reddy University",
+    "skills": [
+        "Python",
+        "Java",
+        "HTML"
+    ]
+}
